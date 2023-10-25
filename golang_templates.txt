@@ -1,1 +1,1 @@
-{{ .GetFile "/flag.txt" }}
+{{ .readFile "/flag.txt" }}
